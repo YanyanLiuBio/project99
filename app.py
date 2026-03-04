@@ -6,6 +6,7 @@ import locations
 
 PORT = 8080
 
+
 app = FastAPI()
 
 
